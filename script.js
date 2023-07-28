@@ -18,7 +18,7 @@ window.addEventListener("load", () => {
 
 //  typing animation
 var typed = new Typed(".typing",{
-    strings:["","Frontend Developer","GUI Developer"],
+    strings:["","Frontend Developer","GUI Developer","Analyse Your Data"],
     typeSpeed:120,
     BackSpeed:30,
     loop:true

@@ -127,6 +127,8 @@ ul{
 }
 .aside .logo a{
     color: var(--text-black-900);
+    background-color: linear-gradient(135deg, #8a63d2, #23a7bf);
+    -webkit-background-clip: text; 
     font-weight: 700;
     /* background: red; */
     padding: 15px 20px;
@@ -137,6 +139,8 @@ ul{
 .aside .logo a span{
     font-family: "Clicker script",cursive;
     font-size: 40px;
+    background-color: linear-gradient(135deg, #8a63d2, #23a7bf);
+    -webkit-background-clip: text; 
 }
 .aside .logo a::before{
     content: '';
